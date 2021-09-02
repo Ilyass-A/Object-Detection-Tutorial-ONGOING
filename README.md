@@ -1,5 +1,6 @@
 # Computer Vision-Object-Dection-Model
 ### Setup and Installation
+#### Creating a virtual environment
 1. Create virtual enviroment (in cmd): python -m venv environment_name
 2. Activate virtual environment (in cmd): .\environment_name\Scripts\activate  
 3. Upgrad pip (in cmd): python -m pip install --upgrade pip
