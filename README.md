@@ -8,7 +8,7 @@ It is necessary to execute these steps in order to run the code. I used cmd to e
 `.\environment_name\Scripts\activate`  
 3. Upgrade pip:  
 `python -m pip install --upgrade pip`
-4. Installion of ipykernel:   
+4. Installtion of ipykernel:   
 `pip install ipykernel`
-5. Installion of the virtual environment to jupyter Notebook:  
+5. Installtion of the virtual environment to jupyter Notebook:  
 `python -m ipykernel install --user --name=obdec`
