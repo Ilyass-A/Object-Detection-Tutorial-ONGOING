@@ -1,4 +1,4 @@
-# Object Detection Tutorial   
+# ONGOING - Object Detection Tutorial   
 Currently I am learning how to build an object detection model. For that I am using my webcam.
 ### Setup and Installation
 It is necessary to execute these steps in order to run the code. I used cmd to execute the following steps:
