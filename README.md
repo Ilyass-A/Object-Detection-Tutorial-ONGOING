@@ -1,5 +1,5 @@
 # Object Detection Tutorial   
-This repisotory contians the basic structure to build a object detection model. For that I used my webcam.
+Currently I am learning how to build an object detection model. For that I am using my webcam.
 ### Setup and Installation
 It is necessary to execute these steps in order to run the code. I used cmd to execute the following steps:
 1. Creation of a virtual enviroment:  
