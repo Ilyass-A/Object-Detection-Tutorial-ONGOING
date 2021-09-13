@@ -1,7 +1,7 @@
 # Object Detection Tutorial (Ongoing)
 ### About
 I am currently studying to build an Object Detection Model.
-### Setup and Installation
+### 1. Setup and Installation
 It is necessary to execute these steps in order to run the code. I used cmd to execute the following steps:
 1. Creation of a virtual enviroment:  
 `python -m venv your_environment_name`
@@ -14,7 +14,7 @@ It is necessary to execute these steps in order to run the code. I used cmd to e
 5. Installation of the virtual environment to jupyter Notebook:  
 `python -m ipykernel install --user --name=obdec`
 
-### Training and Detection of the Model  
+### 2. Training and Detection of the Model  
 - Pretrained Models: [Tensorflow Model Zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md "Tensorflow Model Zoo") (Pre- and postprocessing are automatically done)
 - Model selction depends characterized by:
   - high accuracy = slow detections
